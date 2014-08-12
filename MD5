@@ -1,12 +1,15 @@
-5f4d60a51f2b3ba48bad6b1ad6c4f745 *DESCRIPTION
+34d599b1de651abf781a7a6a505f5c80 *DESCRIPTION
 d265e9b5accb770720934aff9d93e1f1 *NAMESPACE
 23db1b9d02648dc27b7beae7d15becee *R/tools.R
-0b68f78d40641f93644cb51b4ba4b062 *inst/COPYRIGHTS
+16b960264b602b5b61cef76d603f2ae2 *inst/COPYRIGHTS
+8e149c1053741c03736a52df83974dcc *inst/java/commons-codec-1.3.jar
 2e55c05d3386889af97caae4517ac9df *inst/java/commons-io-1.3.1.jar
 237a8e845441bad2e535c57d985c8204 *inst/java/commons-lang-2.4.jar
 ed448347fc0104034aa14c8189bf37de *inst/java/commons-logging-1.1.1.jar
 39c056e8e06467b7f2a2c687bd9602a6 *inst/java/docx4j-3.0.0.jar
 4d4609998fbc124ce6f0d1d48fca2614 *inst/java/log4j-1.2.15.jar
+84f823e61d93fcedcb3c10a827c45989 *inst/java/sanselan-0.97-incubator.jar
 3b1ececad9ebc3fbad2953ccf4a070ca *inst/java/slf4j-api-1.7.5.jar
 371e35747d6bd35e3800034bdac4150e *inst/java/slf4j-log4j12-1.7.5.jar
 29a1d212a67c3a7e70e778446730e1ca *inst/java/xmlgraphics-commons-1.4.jar
+6db35e54a3c8b489f33611f936b5e78a *java/README
