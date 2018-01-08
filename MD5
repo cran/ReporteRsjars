@@ -1,7 +1,8 @@
-34d599b1de651abf781a7a6a505f5c80 *DESCRIPTION
-d265e9b5accb770720934aff9d93e1f1 *NAMESPACE
-23db1b9d02648dc27b7beae7d15becee *R/tools.R
-16b960264b602b5b61cef76d603f2ae2 *inst/COPYRIGHTS
+90e0f385da9cd758fe4d6ee8e96921a2 *DESCRIPTION
+3b18e3e99b0acc1e5cdcb98b7edda45b *NAMESPACE
+e98bb20b0a9de78a2f7d1a96d62db937 *R/tools.R
+22a56220cb9927723b76ff54347e18df *README.md
+36f68d1d5b79fae04ce34708c6ebcb5b *inst/COPYRIGHTS
 8e149c1053741c03736a52df83974dcc *inst/java/commons-codec-1.3.jar
 2e55c05d3386889af97caae4517ac9df *inst/java/commons-io-1.3.1.jar
 237a8e845441bad2e535c57d985c8204 *inst/java/commons-lang-2.4.jar
@@ -12,4 +13,4 @@ ed448347fc0104034aa14c8189bf37de *inst/java/commons-logging-1.1.1.jar
 3b1ececad9ebc3fbad2953ccf4a070ca *inst/java/slf4j-api-1.7.5.jar
 371e35747d6bd35e3800034bdac4150e *inst/java/slf4j-log4j12-1.7.5.jar
 29a1d212a67c3a7e70e778446730e1ca *inst/java/xmlgraphics-commons-1.4.jar
-6db35e54a3c8b489f33611f936b5e78a *java/README
+9e0596f90cc0b49a8cd03017761488e4 *java/README
